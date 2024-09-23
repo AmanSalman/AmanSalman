@@ -1,5 +1,5 @@
 ## 
-Hey there! I'm Aman Salman, a passionate Software Engineer👩‍💻💓.
+Hey there! I'm Aman Salman, a passionate Software Engineer, Passionate about Debugging, Turning Code Puzzles into Victories! 👩‍💻💓
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmanSalman) 
 
