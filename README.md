@@ -5,3 +5,5 @@ Hey there! I'm Aman Salman, a passionate Software Engineer, Passionate about Deb
 
 [![](https://visitcount.itsvg.in/api?id=AmanSalman&icon=0&color=12)](https://visitcount.itsvg.in)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmanSalman)](https://git.io/streak-stats)
+
