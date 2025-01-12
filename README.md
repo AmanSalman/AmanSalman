@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-• 🔭 **I’m currently working on** Developing **software solutions** as part of the **Noqta team**.
+• 🔭 **I’m currently working on** Developing **software solutions** as part of the **Noqta team** and instructing courses to help others grow their technical skills.
 
 •👯 **I’m looking to collaborate on** Fun and creative **projects** that involve building **scalable and efficient software systems**.
 
