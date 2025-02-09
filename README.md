@@ -3,7 +3,6 @@
 
 **A** passionate **Software Engineer** who loves **debugging** and turning **code puzzles into victories!** 👩‍💻✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmanSalman&label=Profile%20Views&color=CC0066)
 
 ## 💫 About Me:
 
@@ -15,6 +14,7 @@
 
 • ⚡ **Fun fact** I see bugs as **puzzles waiting to be solved**—and I love solving them! 🧩
 
+![Profile Views](https://komarev.com/ghpvc/?username=AmanSalman&label=Profile%20Views&color=CC0066)
 ---
 
 Feel free to explore my repositories and connect with me if you have any questions or cool collaboration ideas!
