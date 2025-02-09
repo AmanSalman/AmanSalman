@@ -3,6 +3,8 @@
 
 **A** passionate **Software Engineer** who loves **debugging** and turning **code puzzles into victories!** 👩‍💻✨
 
+![Profile Views](https://komarev.com/ghpvc/?username=AmanSalman&label=Profile%20Views&color=CC0066)
+
 ## 💫 About Me:
 
 • 🔭 **I’m currently working on** Developing **software solutions** as part of the **Noqta team** and instructing courses to help others grow their technical skills.
